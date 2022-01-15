@@ -1,7 +1,7 @@
 function preload(){
-  black = loadModel('dreamWink2-0.obj', false)
-  white = loadModel('dreamWink2-1.obj', false)
-  green = loadModel('dreamWink2-2.obj', false)
+  black = loadModel('dreamwink2-0.obj', false)
+  white = loadModel('dreamwink2-1.obj', false)
+  green = loadModel('dreamwink2-2.obj', false)
   mcFont = loadFont('mc.otf')
 }
 function setup() {
